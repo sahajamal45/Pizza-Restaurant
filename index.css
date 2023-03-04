@@ -1,0 +1,209 @@
+
+html{
+    background-color:rgb(27, 26, 26);
+     /* opacity: 0.3; */
+}
+
+.head1{
+    color: rgb(100, 88, 88);
+    /* opacity: 0.3; */
+}
+
+.navbar{
+    /* border: 2px solid black; */
+    display: flex;
+    /* list-style-type: none; */
+    background-color:#000000 ;
+    color: white;
+    /* position: absolute; */
+
+
+}
+
+.left-nav{
+    list-style-type: none;
+    display: flex;
+    width: 20%;
+    gap: 15px;
+}
+.main-nav{
+    list-style-type: none;
+    display: flex;
+    width: 60%;
+    gap: 20px;
+}
+.right-nav{
+    width: 20%;
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-img{
+    height: 15px;
+    width: 15px;
+}
+/* .................................................................................. */
+body{
+    margin: 200px;
+    background-color: #000000;
+}
+
+/* ........................................................................ */
+.head{
+    background-image:url("https://im1.dineout.co.in/images/uploads/restaurant/sharpen/5/k/h/p55-1493903624590b2908cb9b0.jpg?w=400");
+color: white;
+width: 100%;
+/* margin: ; */
+}
+
+.back1{
+/* border: 2px solid white; */
+width: 250px;
+font-size: 40px;
+margin-left: 40px;
+/* padding: 0px 20px; */
+top: 140px;
+left: 40px;
+font-family: Quattrocento;
+}
+
+.hr1{
+    margin-left: 80px;
+    margin: 25px 25px;
+    width: 20%;
+    border: 1px solid red;
+}
+.back2{
+    /* border: 2px solid white; */
+    width: 200px;
+    font-size: 15px;
+    margin: 50px;
+    padding: 20px;
+}
+
+.main-body{
+    /* display: flex; */
+    background-color: #000000;
+}
+.head3{
+    color:white ;
+    /* align-self: center; */
+    margin-left: 40%;
+}
+.hr2{
+    width: 20%;
+    border: 1px solid red;
+}
+main{
+    color: white;
+}
+.pre1{
+font-size: 20px;
+font-family:Ruda;
+margin-left: 70px;
+row-gap:10px;
+}
+.hr3{
+    width: 30%;
+    margin-left: 100px;
+    margin-top: 80px;
+    border: 1px solid red;
+}
+footer{
+color: rgb(243, 247, 250);
+}
+
+.container{
+/* border: 2px solid white; */
+display:flex;
+margin:60px 100px 60px 100px;
+
+}
+.div-img1{
+ height: 200px;
+ width: 200px;
+;
+/* display: inline; */
+}
+.gapi{
+    margin-left: 20px;
+}
+.div-class{
+    /* border: 1px solid white; */
+    margin: 10px;
+    padding: 10px; 
+display: flex;
+}
+.menu-para1{
+    display:flex;
+}
+.about-us{
+    display:flex;
+    gap: 10px;
+}
+
+.h-menu{
+    margin-left: 400px;
+    margin-top: 60px;
+    font-family: Quattrocento;
+}
+.hr4{
+    width: 20%;
+    border: 1px solid red;
+    margin-left: 350px;
+}
+.menu-para{
+    margin:60px 100px 60px 100px;
+}
+.find{
+    margin-left: 400px;
+    margin-top: 60px;
+    font-family: Quattrocento;
+}
+.left-find{
+    /* border: 1px silod white; */
+    margin:40px 100px 40px 100px;
+    /* display: flex; */
+}
+.right-map{
+    display: flex;
+}
+
+.loc-img{
+    height: 30px;
+    width: 30px;   
+}
+.phn-img{
+    height: 50px;
+    width: 50px;
+}
+.map-img{
+    height: 300px;
+    width: 300px;
+    margin-top: 60px;
+}
+
+footer{
+    /* border: 1px solid white; */
+    margin-top: 100px;
+    /* margin-left: 100px; */
+}
+.footer-col{
+    display: flex;
+}
+.email-icon{
+    height: 15px;
+    width: 15px;
+}
+.foot-man{
+    margin: 100px 100px 20px 20px;
+    height: 80px;
+    width: 80px;
+}
+.right-foot{
+    margin: 150px 100px 20px 400px;
+}
+.white{
+    margin-left: 20px;
+}
